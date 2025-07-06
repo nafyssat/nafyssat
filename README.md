@@ -11,7 +11,7 @@ Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre
 
 ## GitHub Stats
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafyssat&theme=2077)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafyssat&theme=nord_dark)
 
 
 <table>
