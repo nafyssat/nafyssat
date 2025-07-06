@@ -15,15 +15,11 @@ Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafyssat&theme=nord_dark" /></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafyssat&theme=nord_dark" /></td>
-  </tr>
-  <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafyssat&theme=nord_dark" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafyssat&theme=nord_dark" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafyssat&theme=nord_dark" />
-    </td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafyssat&theme=nord_dark" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafyssat&theme=nord_dark" /></td>
   </tr>
 </table>
 
