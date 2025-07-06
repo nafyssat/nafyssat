@@ -1,8 +1,7 @@
 # Bienvenue sur mon profil GitHub
-
-## À propos de moi
 > "Without data, you're just another person with an opinion." – W. Edwards Deming
-
+> 
+## À propos de moi
 
 Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre de nouvelles technologies liées à l’ingénierie des données.
 
