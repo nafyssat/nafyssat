@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub
 > "Without data, you're just another person with an opinion." – W. Edwards Deming
-> 
+
 ## À propos de moi
 
 Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre de nouvelles technologies liées à l’ingénierie des données.
@@ -26,5 +26,5 @@ Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre
    <td><img width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafyssat&theme=nord_dark" /></td>
   </tr>
 </table>
-à)-puù£
+
 
