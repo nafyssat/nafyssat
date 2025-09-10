@@ -3,11 +3,11 @@
 
 ## À propos de moi
 
-Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre de nouvelles technologies liées à l’ingénierie des données.
+Je suis passionnée par la donnée, curieuse, et toujours en train d’apprendre de nouvelles technologies.
 
-- Data ingénieure junior formée en modélisation, ETL, visualisation et automatisation
-- Intéressée par les problématiques de mobilité, environnement, emploi, urbanisme
-- En veille active sur les outils open-source, API et cloud data platforms
+- Exploratrice des données | en début de carrière 
+- Formée en ingénierie des données et machine learning : modélisation, automatisation des flux , visualisation et analyse prédictive.
+- Intéressée par l’exploitation des données appliquées à la publicité ciblée, la recommandation de contenus, l’environnement et la mobilité.
 
 ## GitHub Stats
 
